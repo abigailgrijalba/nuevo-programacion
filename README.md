@@ -1,2 +1,9 @@
-# nuevo-programacion
-Repositorio de repaso en clase del 20/08/2024 de programación en sig
+# Nuevo repositorio 
+
+Este es un repositorio de ejemplo para mostrar la síntaxis Markdown
+
+**Texto en negrita**
+*Texto en itálica*
+
+[UCR](https://ucr.ac.cr)
+
